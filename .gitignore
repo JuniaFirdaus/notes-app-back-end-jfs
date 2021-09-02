@@ -1,0 +1,4 @@
+node_modules
+notes-api-webserver-jfs14.pem
+.env
+.prod.env
